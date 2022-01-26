@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork_220114_ToUpper", "HomeWork_220114_ToUpper\HomeWork_220114_ToUpper.vcxproj", "{14B8215A-CBC0-44C9-9162-12C9780C3B81}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork_220117", "HomeWork_220117\HomeWork_220117.vcxproj", "{EAC10B20-0DE8-4E12-B966-157448E93E5F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork_220126", "HomeWork_220126\HomeWork_220126.vcxproj", "{E527B937-7DDF-478A-9F79-0DDA566D14B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{14B8215A-CBC0-44C9-9162-12C9780C3B81}.Release|x64.Build.0 = Release|x64
 		{14B8215A-CBC0-44C9-9162-12C9780C3B81}.Release|x86.ActiveCfg = Release|Win32
 		{14B8215A-CBC0-44C9-9162-12C9780C3B81}.Release|x86.Build.0 = Release|Win32
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Debug|x64.ActiveCfg = Debug|x64
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Debug|x64.Build.0 = Debug|x64
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Debug|x86.Build.0 = Debug|Win32
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Release|x64.ActiveCfg = Release|x64
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Release|x64.Build.0 = Release|x64
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Release|x86.ActiveCfg = Release|Win32
+		{EAC10B20-0DE8-4E12-B966-157448E93E5F}.Release|x86.Build.0 = Release|Win32
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Debug|x64.ActiveCfg = Debug|x64
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Debug|x64.Build.0 = Debug|x64
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Debug|x86.Build.0 = Debug|Win32
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Release|x64.ActiveCfg = Release|x64
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Release|x64.Build.0 = Release|x64
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Release|x86.ActiveCfg = Release|Win32
+		{E527B937-7DDF-478A-9F79-0DDA566D14B2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -28,6 +28,6 @@ int main()
 	char Text[100];
 
 	ToUpper("12adefa", Text);
-	//      "12ABCCEEE" -> 알파벳소문자가 대문자가 되도록 바꾼다.
+	//      "12ADEFA" -> 알파벳소문자가 대문자가 되도록 바꾼다.
 	printf_s(Text);
 }
